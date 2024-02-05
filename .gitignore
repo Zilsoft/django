@@ -1,0 +1,13 @@
+# python
+env/
+.pylintrc
+__pycache__/
+
+# vscode
+.vscode
+.idea
+.env
+
+# django
+db.sqlite3
+media/
